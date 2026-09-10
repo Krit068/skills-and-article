@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品开发全流程"
+  short_description: "从 PRD、核心链路验证到正式前端、上线部署与持续迭代"
+  default_prompt: "使用 $ai-product-development 阅读我的 PRD 和现有项目，判断当前阶段，给出技术适配声明并推进本阶段开发与验收。"
